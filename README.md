@@ -1,1 +1,3 @@
-# Forecasting_HAB_MachineLearning
+# Harmful Algal Blooms (HAB) Change detection uding machine learning approach
+
+Harmful algal blooms (HABs) present significant ecological and public health risks, necessitating effective monitoring and management strategies. Recent advancements in machine learning techniques have demonstrated promise in improving change detection of HABs by analyzing extensive datasets from satellite imagery and in situ measurements. These methods allow for the identification of bloom patterns and their dynamics with greater accuracy and timeliness. By utilizing algorithms such as convolutional neural networks and support vector machines, researchers can create predictive models that support early warning systems, ultimately leading to enhanced resource allocation and mitigation efforts to protect water quality and ecosystem health.
